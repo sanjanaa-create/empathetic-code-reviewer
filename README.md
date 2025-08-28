@@ -22,7 +22,7 @@ A tool that takes a code snippet and direct/critical review comments, then rewri
 ## 🛠 Setup & Run (Windows PowerShell)
 
 1. Clone the repo:
-   git clone [https://github.com/YOUR-USERNAME/empathetic-code-reviewer.git](https://github.com/YOUR-USERNAME/empathetic-code-reviewer.git)
+   git clone https://github.com/sanjanaa-create/empathetic-code-reviewer.git
    cd empathetic-code-reviewer
 
 2. Create virtual environment & activate:
