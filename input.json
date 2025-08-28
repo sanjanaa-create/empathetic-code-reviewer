@@ -1,0 +1,8 @@
+{
+  "code_snippet": "def get_active_users(users):\n  results = []\n  for u in users:\n    if u.is_active == True and u.profile_complete == True:\n      results.append(u)\n  return results",
+  "review_comments": [
+    "This is inefficient. Don't loop twice conceptually.",
+    "Variable 'u' is a bad name.",
+    "Boolean comparison '== True' is redundant."
+  ]
+}
